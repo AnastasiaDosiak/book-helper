@@ -20,6 +20,9 @@ const Instructions: React.FC = () => (
     <p className="instructions__note">
       **If yow weren&apos;t redirected to the checkout page, please, follow amazon suggestions
     </p>
+    <p className="instructions__note">
+      ***If the book can&apos;t be bought, Book Helper will rerun his search again automatically.
+    </p>
   </div>
 );
 
